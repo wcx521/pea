@@ -1,5 +1,5 @@
 /*!
- * pea-js 0.2.1
+ * pea-js 0.3.0
  * Pea is a middleware layer for web, inspired by the connect
  * Copyright 2017, ccbabi <kxxw28@gmail.com>
  * Released under the MIT license.
